@@ -15,11 +15,6 @@ The dashboard provides insights into **sales performance, product categories, su
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard Preview](./Screenshot%202025-08-22%20160013.jpg)
-
----
 
 ## 🔑 Key Insights
 
