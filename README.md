@@ -1,8 +1,4 @@
-Got it ✅ You want a **README.md** file for your GitHub repository that explains the **Fathallah Market Data Analysis Dashboard** you built in Excel (with Pivot Tables, Pivot Charts, and Slicers).
 
-Here’s a clean and professional draft you can use:
-
----
 
 # 🛒 Fathallah Market Data Analysis Dashboard
 
